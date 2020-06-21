@@ -1,0 +1,55 @@
+@media screen and (min-width:640px) {
+    .container {
+        min-width:640px;
+
+    }
+}
+h1 {
+    font-size: 34px;
+    color:#189AB4
+}
+.container {
+    background-color: #E9EAEC;
+    border-width: thin;
+    border-style: solid;
+    border-color: #A6A9AA;
+}
+
+.navcontainer {
+    background-color:#189AB4;
+    color: white;
+    border-width: thin;
+    border-style: solid;
+    border-color: #A6A9AA;
+ 
+
+}
+.body {
+background-color:#68D1E1;
+margin: auto;
+
+}
+
+.card-header {
+    background-color:#189AB4;
+    text-align: center;
+}
+.card-body {
+    background-color: white;
+    color: black; 
+  
+}
+
+.card-footer {
+    background-color:#189AB4;
+
+}
+
+
+footer {
+    display: block;
+    border-width: thin;
+    border-style: solid;
+    border-color: #A6A9AA;
+   
+}
