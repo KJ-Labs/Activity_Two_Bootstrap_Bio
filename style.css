@@ -71,6 +71,9 @@ footer {
     border-color: #A6A9AA;
    
 }
-.white  {
-    background-color: white;
-}
+.navbar{
+    display: flex;
+    justify-content: center;
+
+ }
+
