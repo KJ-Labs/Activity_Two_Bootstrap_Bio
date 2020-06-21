@@ -1,6 +1,7 @@
 @media screen and (min-width:640px) {
     .container {
-        min-width:640px;
+        margin: auto;
+    
 
     }
 }
@@ -21,17 +22,23 @@ h1 {
     border-width: thin;
     border-style: solid;
     border-color: #A6A9AA;
+    
  
 
 }
 .body {
 background-color:#68D1E1;
-margin: auto;
+text-align: center;
+
 
 }
 
+
 .card-title {
     text-align: center;
+    text-decoration: underline overline;
+    text-decoration-color: grey;
+
 }
 
 .card-header {
@@ -41,6 +48,7 @@ margin: auto;
 .card-body {
     background-color: white;
     color: black; 
+    text-align: center;
   
 }
 
@@ -51,7 +59,7 @@ margin: auto;
 
 
 footer {
-    display: block;
+   
     border-width: thin;
     border-style: solid;
     border-color: #A6A9AA;
