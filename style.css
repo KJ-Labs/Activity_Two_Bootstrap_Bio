@@ -42,7 +42,7 @@ text-align: center;
 
 .card-title {
     text-align: center;
-    text-decoration: underline overline;
+    text-decoration: underline;
     text-decoration-color: grey;
 
 }
@@ -77,3 +77,7 @@ footer {
 
  }
 
+.form-group {
+    text-align: left;
+    color: black;
+}
