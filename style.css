@@ -52,12 +52,17 @@ text-align: center;
     text-align: center;
 }
 .card-body {
-    background-color: white;
+ 
     color: black; 
     text-align: center;
+    display: inline;
   
 }
 
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+    height: 100%
+}
 .card-footer {
     background-color:#189AB4;
 
