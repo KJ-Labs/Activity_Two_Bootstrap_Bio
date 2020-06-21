@@ -9,6 +9,9 @@ h1 {
     font-size: 34px;
     color:#189AB4
 }
+
+
+
 .container {
     background-color: #E9EAEC;
     border-width: thin;
@@ -22,10 +25,13 @@ h1 {
     border-width: thin;
     border-style: solid;
     border-color: #A6A9AA;
-    
- 
-
 }
+    
+.navbar {
+    background-color: white;
+}
+
+
 .body {
 background-color:#68D1E1;
 text-align: center;
@@ -64,4 +70,7 @@ footer {
     border-style: solid;
     border-color: #A6A9AA;
    
+}
+.white  {
+    background-color: white;
 }
