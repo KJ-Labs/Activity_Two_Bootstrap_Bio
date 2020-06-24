@@ -7,3 +7,6 @@ The corgi on the about me page is from https://dogtime.com/assets/uploads/2016/0
 I used HTML and Bootstrap to build the website, focusing on making sure it works on mobile devices as well as larger devices. On the portfolio section, I plan to update the painting card and cat card with actual software development projects once I finish them. 
 
 Thanks, 
+
+Link to Website: https://kj-labs.github.io/Activity_Two_Bootstrap_Bio/
+
