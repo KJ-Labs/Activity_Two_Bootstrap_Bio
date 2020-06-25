@@ -1,17 +1,9 @@
 
-
-@media screen and (min-width:640px) {
-    .container {
-        margin: auto;
-    
-
-    }
-}
+/* Added in CSS splits for navbar containers, footer and card body, rest is handled in HTML*/
 h1 {
     font-size: 34px;
     color:#189AB4
 }
-
 
 
 .container {
@@ -37,8 +29,6 @@ h1 {
 .body {
 background-color:#68D1E1;
 text-align: center;
-
-
 }
 
 .card-title {
@@ -55,12 +45,7 @@ text-align: center;
 .card-body {
 color: black; 
    text-align: center;
-
-
-  
 }
-
-
 
 .card-footer {
     background-color:#189AB4;
@@ -68,16 +53,14 @@ color: black;
 
 
 footer {
-   
     border-width: thin;
     border-style: solid;
     border-color: #A6A9AA;
-   
 }
+
 .navbar{
     display: flex;
     justify-content: center;
-
  }
 
  h2{
