@@ -8,7 +8,7 @@ I used HTML and Bootstrap to build the website, focusing on making sure it works
 
 Thanks, 
 
-Link to Website: https://kj-labs.github.io/Activity_Two_Bootstrap_Bio/
+Link to Website: https://kj-labs.github.io/Bootstrap_Bio/
 
 Screenshots:![Alt text](https://github.com/KJ-Labs/Bootstrap_Bio/blob/master/Screenshots.PNG "Screenshots")
 
