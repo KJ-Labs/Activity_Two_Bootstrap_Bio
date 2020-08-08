@@ -1,4 +1,4 @@
-# Bootstrap_Bio
+# Personal_Bio
 
 The Bootstrap Bio activity was to create a customized website that includes links to projects I've done, some general information and a contact section. 
 
@@ -12,7 +12,7 @@ License: MIT
 
 Thanks, 
 
-Link to Website: https://kj-labs.github.io/Bootstrap_Bio/
+Link to Website: https://kj-labs.github.io/Personal_Bio/
 
-Screenshots:![Alt text](https://github.com/KJ-Labs/Bootstrap_Bio/blob/master/Screenshots.PNG "Screenshots")
+Screenshots:![Pictures of Bio](https://github.com/KJ-Labs/Bootstrap_Bio/blob/master/updatedscreenshots.PNG "Screenshots")
 
