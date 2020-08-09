@@ -14,5 +14,5 @@ Thanks,
 
 Link to Website: https://kj-labs.github.io/Bootstrap_Bio/
 
-Screenshots:![Alt text](https://github.com/KJ-Labs/Bootstrap_Bio/blob/master/Screenshots.PNG "Screenshots")
+Screenshots:![Pictures of Bio](https://github.com/KJ-Labs/Bootstrap_Bio/blob/master/updatedscreenshots.PNG "Screenshots")
 
